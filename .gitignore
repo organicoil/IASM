@@ -1,0 +1,25 @@
+# IDE configs
+
+*.iml
+
+.idea/
+
+# Log files
+
+*.log
+
+*.log.*
+
+# Generated files
+
+target/
+
+out/
+
+# Package Files #
+
+*.zip
+
+*.tar.gz
+
+*.rar
